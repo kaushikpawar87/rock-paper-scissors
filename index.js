@@ -14,3 +14,6 @@ function getComputerChoice() {
 }
 
 console.log(getComputerChoice());
+
+const playerSelection = window.prompt("Type Rock, Paper or Scissors", "");
+
